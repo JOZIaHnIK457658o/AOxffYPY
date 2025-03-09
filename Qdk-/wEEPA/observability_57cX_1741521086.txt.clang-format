@@ -104,7 +104,6 @@ SpaceBeforeAssignmentOperators: true
 #SpaceBeforeCtorInitializerColon: true # Unknown to clang-format-5.0
 #SpaceBeforeInheritanceColon: true # Unknown to clang-format-5.0
 SpaceBeforeParens: ControlStatements
-#SpaceBeforeRangeBasedForLoopColon: true # Unknown to clang-format-5.0
 SpaceInEmptyParentheses: false
 SpacesBeforeTrailingComments: 1
 SpacesInAngles: false
