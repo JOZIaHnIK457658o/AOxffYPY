@@ -6,7 +6,6 @@ Combined Reading List
 We'd recommend the following books are read in alignment with the respective module content, however, this list provides an overview of the BDes (Hons) Interaction Design course reading list, broken down by year.
 
 
-##Year 1
 
 In our first year, we focus on the fundamentals. We introduce students to the principles of communication design – exploring how we communicate – and, coupled with this, begin to introduce the tools required to build future friendly content.
 
