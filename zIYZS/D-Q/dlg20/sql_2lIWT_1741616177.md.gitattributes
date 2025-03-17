@@ -15,7 +15,6 @@ LICENSE text eol=lf
 COMMITMENT text eol=lf
 
 *_ binary
-*.dll binary
 *.pdf binary
 *.so binary
 *.wav binary
