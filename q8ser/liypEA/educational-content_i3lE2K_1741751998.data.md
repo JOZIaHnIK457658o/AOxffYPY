@@ -41,7 +41,6 @@ In our first year, we focus on the fundamentals. We introduce students to the pr
 
 ###Exploring Identity
 
-####Required
 
 + Hicks, J., 2011. [The Icon Handbook.](http://www.fivesimplesteps.com/products/the-icon-handbook) Penarth: Five Simple Steps.
 + Mollerup, P., 2013. [Marks of Excellence: The History and Taxonomy of Trademarks.](http://www.amazon.co.uk/exec/obidos/ASIN/0714864749/monographic-21) 2nd ed. London: Phaidon.
