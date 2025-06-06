@@ -32,7 +32,6 @@
         "examples$"
       ],
       "presets": [
-        "comments",
         "common-false-positives",
         "legacy",
         "std-error-handling"
